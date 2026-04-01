@@ -20,4 +20,6 @@ body{
 .input-box input{
     width: 100%;
     padding: 10px 0;
+    border: 0;
+    outline: 0;
 }
