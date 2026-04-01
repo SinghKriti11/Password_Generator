@@ -4,9 +4,11 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+
 body{
     background: #250057;
 }
+
 .input-box{
     background: #fff;
     width: 90%;
@@ -17,6 +19,7 @@ body{
     display: flex;
     align-items: center;
 }
+
 .input-box input{
     width: 100%;
     padding: 10px 0;
@@ -25,6 +28,7 @@ body{
     font-size: 24px;
     color: #555;
 }
+
 .input-box img{
     width: 35px;
     cursor: pointer;
